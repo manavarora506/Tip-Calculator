@@ -34,10 +34,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
 
-Learning syntax was an interesting, but enjoyable challenge
-Understanding what outlets were and what they did was also a challnege at first
+-Learning syntax was an interesting, but enjoyable challenge
+-Understanding what outlets were and what they did was also a challnege at first
 
 
 
